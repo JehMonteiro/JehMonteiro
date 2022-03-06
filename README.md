@@ -1,4 +1,4 @@
-=> Olá, eu sou a Jessica Monteiro Bueno, estudante de programação e tecnologia! 👩‍💻🚀
+=> Olá, eu sou a Jessica Monteiro Bueno, estudante de programação! 👩‍💻🚀
 <div align="center">
   <a href="https://github.com/JehMonteiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jehmonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
